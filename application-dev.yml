@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: cloud-config-dev-helloworld22222222222
+config:
+  info: dev-config-info-version:001
